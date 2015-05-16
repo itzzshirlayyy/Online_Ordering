@@ -1,3 +1,3 @@
 # Django_app
 
-Just Trolling around while making a Django app
+Just trolling around while making a Django app
