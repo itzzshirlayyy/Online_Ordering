@@ -1,0 +1,3 @@
+venv
+*.pyc
+Django_app/ignore_directory
